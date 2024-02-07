@@ -7,6 +7,6 @@ A website which will host a number of tools based on Spotify playlist creation.
 
 <h3>Song Compiler</h3>
 This tool allows you to create a playlist with all songs from an artist. It also allows you to enter multiple artists, creating a large playlist with a combined collection of their tracks
-![image](https://github.com/LilahCodes/Lilahs-Spotify-Tools/assets/88543992/78b38842-6b50-4bbc-8e84-e600ed382bd5)
+![alt text](https://github.com/LilahCodes/Lilahs-Spotify-Tools/assets/88543992/78b38842-6b50-4bbc-8e84-e600ed382bd5)
 
 
